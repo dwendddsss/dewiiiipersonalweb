@@ -40,3 +40,13 @@ nav ul li a {
   font-weight: 500;
   transition: color 0.3s;
 }
+
+nav ul li a:hover {
+  color: #ffe4e1;
+}
+
+section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
