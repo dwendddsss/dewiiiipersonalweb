@@ -136,3 +136,11 @@ section {
   transform: scale(1.05);
   opacity: 0.9;
 }
+
+footer {
+  background: #ffb6c1;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  margin-top: 20px;
+}
